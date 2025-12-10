@@ -1,0 +1,5 @@
+Device,IP Address
+Router1,192.168.1.1
+Switch1,10.0.0.5
+Firewall,172.16.0.1
+Server01,192.168.1.50
